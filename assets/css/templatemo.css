@@ -51,7 +51,7 @@ p, a {font-weight: 400;}
 #main_nav .nav-item .nav-link:hover {color: #fff;}
 /* Home */
 #index_banner {
-  background-image: url('./../img/Webp.net-gifmaker.gif');
+  background-image: url('./../img/bayasgif.gif');
   background-position: center center; background-size: cover;
   height: 100%;
   min-height: 60vh;
